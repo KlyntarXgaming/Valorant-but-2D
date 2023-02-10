@@ -14,4 +14,5 @@ By building upon this project and adding additional functionality, such as chara
 
 I made a game like this beacause I thought It whould be fun so I did it I made a game using python.
 
-@credits 
+@ credits 
+@ KlyntarX
