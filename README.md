@@ -11,3 +11,7 @@ The code in this project uses Pygame to set up a window with a specified size an
 By building upon this project and adding additional functionality, such as character movement, level design, and game mechanics, you can create complex and engaging games that can be shared with others. Whether you are a beginner looking to learn the basics of game development, or an experienced programmer looking for a new challenge, this project provides a great starting point for creating 2D games in Python.
 
 # Why I made this 🤔 
+
+I made a game like this beacause I thought It whould be fun so I did it I made a game using python.
+
+@credits 
